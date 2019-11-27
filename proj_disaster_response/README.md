@@ -1,13 +1,4 @@
 #project_disaster_response
-File structure of the project: - app | - template | |- master.html # main page of web app | |- go.html # classification result page 
-of web app |- run.py # Flask file that runs app
-
-data |- disaster_categories.csv # data to process |- disaster_messages.csv # data to process |- process_data.py |- Disaster_Response.db 
-# database to save clean data to
-
-models |- train_classifier.py |- classifier.pkl # saved model
-
-README.md
 
 Summary of the Project: The overall summary in one line of this project is that, we analyze disaster data to build a model for an 
 API that classifies disaster messages and also display some visualizations as the picture gives a better idea. The dataset consists of 
