@@ -1,3 +1,4 @@
+#Sparkify project
 Project Definition: Resilient Distributed Datasets is a fundamental Datastructure of Spark. It is an immutable distributed 
 collection of objects. Each dataset in RDD is divided into logical partitions which may be computed on different nodes of the cluster.
 In this project we manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. We use Spark
